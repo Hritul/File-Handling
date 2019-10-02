@@ -1,4 +1,4 @@
-# tut
+# FILE EXECUTION IN C (TUT)
 #include<stdio.h>
 int main()
 {	
